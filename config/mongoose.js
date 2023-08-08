@@ -2,11 +2,7 @@ const mongoose = require('mongoose');
 // mongoose.set('strictQuery',true);
 // const dotenv = require('.env');
 
-const DB = 'mongodb://127.0.0.1/Placement_cell';
-
-//const DB = 'mongodb+srv://pawarsubham438:6aO4JOECgoI7Xu71@cluster0.bemtdzm.mongodb.net/mernstack?retryWrites=true&w=majority';
-
-
+const DB = 'mongodb+srv://HimanshuKatiyar:dyKcTjzl0YfdTiE6@cluster0.dv9w3cp.mongodb.net/?retryWrites=true&w=majority';
 
 // dotenv.config({ path: 'config/.env' });
 
